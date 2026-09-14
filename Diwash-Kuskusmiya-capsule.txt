@@ -1,2 +1,6 @@
 Diwash Kuskusmiya
 September 14, 2026
+TypeScript
+Goal 1: Learn Kivy
+Goal 2: Complete the Kivy Project
+Goal 3: Prepare for the presentation
